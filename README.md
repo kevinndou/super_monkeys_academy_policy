@@ -1,0 +1,1 @@
+# smatcma-privacy-policy
