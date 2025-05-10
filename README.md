@@ -1,15 +1,15 @@
-# smatcma-privacy-policy
+# super_monkeys_academy-privacy-policy
 
-SMACTMA Terms and Conditions
+Super Monkeys Academy Terms and Conditions
 Effective Date: 08 January 2025
 Project 001 Investment Group
 Email: project001.investment.group@gmail.com
 Contact Number: 081 523 8555
 Introduction:
-Welcome to SMACTMA, an educational tutoring platform owned and operated by Project 001 Investment Group. These Terms and Conditions ("Terms") govern your use of the SMACTMA app and services. By installing, accessing, or using the app, you agree to be bound by these Terms.
+Welcome to Super Monkeys Academy, an educational tutoring platform owned and operated by Project 001 Investment Group. These Terms and Conditions ("Terms") govern your use of the Super Monkeys Academy app and services. By installing, accessing, or using the app, you agree to be bound by these Terms.
 Definitions:
 
-"App" refers to the SMACTMA educational tutoring app.
+"App" refers to the Super Monkeys Academy educational tutoring app.
 "Services" includes all tutoring features, functionality, and educational content provided through the app.
 "User" refers to you, the individual using the app (either as a student or tutor).
 "Data" includes all information and content provided by users.
@@ -75,6 +75,6 @@ Project 001 Investment Group
 Email: project001.investment.group@gmail.com
 Phone: 081 523 8555
 Acceptance:
-By using the SMACTMA app, you acknowledge that you have read, understood, and agree to be bound by these Terms.
+By using the Super Monkeys Academy app, you acknowledge that you have read, understood, and agree to be bound by these Terms.
 Version: 1.0
-Last Updated: 08 January 2025
+Last Updated: 10 May 2025
